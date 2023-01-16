@@ -17,31 +17,31 @@ footer {
 }
 
 .w {
-
+  background-image: url("images/tom1.png");
 }
 
 .a {
-
+  background-image: url("images/tom2.png");
 }
 
 .s {
-
+  background-image: url("images/tom3.png");
 }
 
 .d {
-
+  background-image: url("images/tom4.png");
 }
 
 .j {
-
+  background-image: url("images/snare.png");
 }
 
 .k {
-
+  background-image: url("images/crash.png");
 }
 
 .l {
-
+  background-image: url("images/kick.png");
 }
 
 .set {
@@ -62,7 +62,7 @@ footer {
   color: red;
 }
 
-/* .drum {
+.drum {
   outline: none;
   border: 10px solid #404B69;
   font-size: 5rem;
@@ -78,8 +78,8 @@ footer {
   text-align: center;
   margin: 10px;
   background-color: white;
-} */
-.drum{
+}
+/* .drum{
   outline: none;
   border: 10px solid #404b69;
   width: 150px;
@@ -93,4 +93,4 @@ footer {
   border-radius: 10px;
   line-height: 1;
   color: red;
-}
+} */
